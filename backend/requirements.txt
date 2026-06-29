@@ -3,7 +3,7 @@ uvicorn[standard]==0.29.0
 python-multipart==0.0.9
 python-dotenv==1.0.1
 groq==0.9.0
-google-generativeai==0.7.2
+google-generativeai>=0.8.3
 faiss-cpu==1.8.0
 packaging>=23.0
 numpy==1.26.4
